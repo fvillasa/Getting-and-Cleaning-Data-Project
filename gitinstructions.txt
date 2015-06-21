@@ -1,0 +1,13 @@
+Github
+1. Log into www.github.com
+2. Create new repository named Getting and Cleaning Data Project (the name assigned by github was Getting-and-Cleaning-Data-Project)
+
+Git
+1. mkdir ~/Getting-and-Cleaning-Data-Project
+2. cd ~/Getting-and-Cleaning-Data-Project
+3. git init
+4. git remote add origin https://github.com/fvillasa/Getting-and-Cleaning-Data-Project.git
+5. git push origin master
+6. Create the files requested for the assignment in the Getting-and-Cleaning-Data-Project folder
+7. git add .
+8. git commit -m "First set of project assignment files"
